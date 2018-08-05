@@ -1,1 +1,6 @@
 # VueTraining
+
+**Following the tutorial by Cody Seibert**
+
+**Forked** [here](https://github.com/codyseibert/tab-tracker)...
+**Seen** [here](https://www.youtube.com/watch?v=Fa4cRMaTDUI)...
